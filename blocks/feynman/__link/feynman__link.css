@@ -10,4 +10,5 @@
 
 .feynman__link:hover {
   opacity: .5;
+  transition: all .5s;
 }

@@ -7,7 +7,7 @@
 Вставлены видео с YouTube с помощью ***iframe***<br>  
 Все ссылки на сайте становятся полупрозрачными при наведении (***opacity***)<br><hr>  
 На всей странице установлено семейство шрифтов **Inter**
-<br><hr>  
-```html <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0">```  
+## Запуск проекта
+```git clone github.io/```  
 <br><hr>  
 Статус: готов к проверке
